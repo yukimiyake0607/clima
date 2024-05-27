@@ -1,7 +1,6 @@
 import 'package:clima/services/location.dart';
 import 'package:clima/services/networking.dart';
 import 'package:flutter/material.dart';
-import 'package:geolocator/geolocator.dart';
 
 const String apiKey = 'faca477592cf21c0f3627e68fc1fd1b0';
 
